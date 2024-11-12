@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Android_PersonDataInfo"
         tools:targetApi="31">
         <activity
+            android:name=".PersonInfoActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

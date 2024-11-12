@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android_PersonDataInfo</string>
+    <string name="hint_name_edittext">Введи Имя</string>
+    <string name="hint_surname_edittext">Введи Фамилию</string>
+    <string name="hint_adress_edittext">Адрес проживания</string>
+    <string name="hint_phoneNumber_edittext">Номер телефона</string>
+    <string name="save_button">Сохранить</string>
+    <string name="person_info_text_edittext">Информация о человеке</string>
 </resources>

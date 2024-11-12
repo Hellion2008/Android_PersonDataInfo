@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="adress_text_color">#9E224C</color>
+    <color name="person_info_background_color">#6BADE2</color>
+    <color name="phoneNumber_text_color">#E60FA4</color>
 </resources>
